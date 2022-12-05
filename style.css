@@ -1,0 +1,154 @@
+
+body{
+    
+    width: 32vw;
+    height: 25vw;
+    padding: 170px 500px;
+    text-align: center;
+    border-radius: 100px;
+    font-weight: bold;
+    border: 3px solid #0f13e8;
+}
+
+
+/*3ayn kbira bi hmar liser*/
+.ka1{
+    width: 20px;
+    padding: 60px 130px;
+    border: 2px solid rgb(255, 0, 0);
+    margin-top: -150px;
+    margin-left: -400px;
+    border-radius: 0px 110px 0px 110px;
+    
+}
+
+
+/*3ayn kahla liser*/
+.ka11{
+    width: 20px;
+    padding: 25px 25px;
+    border-radius: 30px;
+    border: 2px solid rgb(0, 0, 0);
+    background:rgb(0, 0, 0);
+
+    margin-left: -250px;
+    margin-top: -100px;
+}
+
+
+/* momo te3 3ayn srera liser*/
+.ka33{
+    width: 10px;
+    padding: 5px 0px;
+
+    border-radius: 25px;
+    border: 2px solid rgb(255, 0, 0);
+    background:rgb(0, 0, 0);
+    margin-left: -220px;
+    margin-top: -55px;
+}
+
+/*tharek men limen leser*/
+.a1{
+    transition: 0.6s;
+}
+
+.a1:hover{
+    transform: translate(-70px);
+}
+
+/*hajeb*/
+.aa{
+    width: 25%;
+    border: dashed;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -580px;
+    margin-bottom: 90px;
+    color: rgb(255, 0, 0);
+}
+
+/*3ayn kbira bi hmar limen*/
+.ka{
+    
+        width: 20px;
+        padding: 60px 130px;
+        border: 2px solid rgb(255, 0, 0);
+        margin-top: -110px;
+        margin-left: 650px;
+        border-radius: 110px 0px 110px 0px;
+        
+    
+}
+
+/*3ayn kahla limen*/
+.ka22{
+    
+        width: 20px;
+        padding: 25px 25px;
+        border-radius: 30px;
+        border: 2px solid rgb(0, 0, 0);
+        background:rgb(0, 0, 0);
+        margin-left: 710px;
+        margin-top: -45px;
+}
+
+/* momo limen*/
+.ka44{
+    width: 10px;
+    padding: 5px 0px;
+    border-radius: 25px;
+    border: 2px solid rgb(255, 0, 0);
+    background:rgb(0, 0, 0);
+    margin-left: 740px;
+    margin-top: -60px;
+}
+
+/*limen liser 3yn li fi limen*/
+.b1{
+    transition: 0.6s;
+}
+.b1:hover{
+    transform: translate(70px);
+
+}
+
+/*nifo*/
+.kb{
+    width: 20px;
+    padding: 140px 80px;
+    text-align: center;
+    border-radius: 100px;
+    font-weight: bold;
+    border: 3px solid rgb(255, 0, 0);
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+/*fomo*/
+.kc{
+    width: 500px;
+    padding: 30px 150px;
+    border-radius: 40px;
+    border: 3px solid rgb(255, 0, 0);
+    margin-top: 60px;
+    margin-left: -180px;
+}
+
+/*sstar li fi fomo*/
+.bb{
+    width: 160%;
+    border: dashed;
+    margin-left: -173px;
+    margin-top: -55px;
+    margin-bottom: 90px;
+    color: rgb(255, 0, 0);
+}
+
+/*ichhar*/
+.kamal{
+    margin-top: -160px;
+    color: #0f13e8;
+}
+
+
